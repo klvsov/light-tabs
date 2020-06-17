@@ -1,6 +1,6 @@
 # light-tabs
 
-For start using tabs.js set:
+For start using tabs.js to set a value:
     variable "tabs"         - class your tabs;
     variable "info"         - class your tab's wrapper
     variable "tabContent"   - class content wrapper your tabs
